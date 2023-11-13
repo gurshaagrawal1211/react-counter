@@ -1,0 +1,21 @@
+h1,h4{
+  text-align: center;
+  padding-top: 20px;
+}
+
+.btns{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  margin: 20px;
+  width: 100px;
+  height: 40px;
+  padding:6px 8px;
+  font-weight: 600;
+  border: none;
+  background-color: rgb(37, 203, 73);
+  cursor: pointer;
+}
